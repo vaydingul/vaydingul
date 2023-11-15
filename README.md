@@ -1,5 +1,5 @@
 - ⬅️ Graduated from Aerospace Engineering ✈️, METU (2015 - 2020)
-- ➡️ Studying Computational Science 💻, Koc University (2020 - )
+- ➡️ Graduated from Computational Science 💻, Koc University (2020 - 2023)
 - 🔭 Working on computer vision 👁️🧠
 - 🚙 End-to-end learning for autonomous driving in urban driving setup. Especially, I'm interested in model-based approaches (i.e., world models).
 - ⚡ Fun fact: I love putting memes to the repositories 🤓
