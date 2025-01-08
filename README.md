@@ -1,3 +1,3 @@
 - ⬅️ Graduated from Aerospace Engineering ✈️, METU (2015 - 2020)
 - ➡️ Graduated from Computational Science 💻, Koc University (2020 - 2023)
-- 🔭 Working on audio-visualgenerative models 👁️🧠
+- 🔭 Working on audio-visual generative models 👁️🧠
